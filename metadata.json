@@ -1,0 +1,6 @@
+{
+  "name": "RotaExpress Entregas",
+  "description": "Aplicativo completo de entregas com leitura de QR Code, otimização inteligente de rotas (TSP), marketplace de fretes, sistema de avaliação mútua, notificações push em tempo real, assinatura digital, comprovação fotográfica e cálculo de lucro real.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
